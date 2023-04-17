@@ -65,3 +65,7 @@ Part2.SLDPRT
 ~$BodyTube.SLDPRT
 ~$Fin.SLDPRT
 ~$Nosecone.SLDPRT
+Avionics Bay Nose Cone.3mf
+*.3mf
+*.gcode
+*.STL
